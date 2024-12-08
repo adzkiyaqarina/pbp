@@ -1,0 +1,3 @@
+#catatan
+1. untuk membuat db, pastikan di db itu ga ada db dengan nama sima_laravel, kalo ada dihapus aja dulu
+2. gunakan sql import seandainya sql migrasinya error
